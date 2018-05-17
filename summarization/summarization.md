@@ -4,7 +4,7 @@
 
 > 首先是论文的参考来源  
 > 1.Algorithms for Solving Production-Scheduling Problems  
-> 	Giffler & Thompson 的经典调度规则，用于生成禁忌搜索的初始解
+> 	Giffler & Thompson 的经典调度规则，用于生成禁忌搜索的初始解  
 > 2.基于自然启发式算法的作业车间调度问题理论与应用研究_张超勇  
 > 	只用了其中的禁忌搜索部分。。  
 
