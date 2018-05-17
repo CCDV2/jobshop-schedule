@@ -1,3 +1,3 @@
 # jobshop schedule
 
-> collaborated by yzy and yzq
+> collaborated with yzy and yzq
