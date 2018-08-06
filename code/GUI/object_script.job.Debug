@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\firstgantt.o
+./debug\mainwidget.o
+./debug\datastructure.o
+./debug\giffler.o
+./debug\input.o
+./debug\output.o
+./debug\queue.o
+./debug\tabusearch.o
+./debug\topograph.o
+./debug\secondgantt.o
+./debug\qrc_res.o
+./debug\moc_firstgantt.o
+./debug\moc_mainwidget.o
+);

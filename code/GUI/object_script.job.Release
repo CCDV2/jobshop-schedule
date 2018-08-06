@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\firstgantt.o
+./release\mainwidget.o
+./release\datastructure.o
+./release\giffler.o
+./release\input.o
+./release\output.o
+./release\queue.o
+./release\tabusearch.o
+./release\topograph.o
+./release\secondgantt.o
+./release\qrc_res.o
+./release\moc_firstgantt.o
+./release\moc_mainwidget.o
+);

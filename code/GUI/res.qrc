@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="doc-open">images/document-open.png</file>
+        <file alias="doc-save">images/document-save-as.png</file>
+        <file alias="icon">images/preferences-system.png</file>
+    </qresource>
+</RCC>
