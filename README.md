@@ -9,8 +9,8 @@ and very poor grade(myself)...
 ##  About Input
 The standard input contains n + 1 lines. The first line contains 2 numbers n and m, which represents job number and machine number.  
 The next following n lines elaborates n jobs. Each line contains some pairs of numbers, which means the required machine and the duration.  
-job number ranged from 0 to n - 1  
-machine number ranged from 0 to m - 1   
+job number ranges from 0 to n - 1  
+machine number ranges from 0 to m - 1   
 Sample:  
 15 10  
 8 14 4 75 3 12 2 38 0 76 5 97 9 12 1 29 7 44 6 66  
